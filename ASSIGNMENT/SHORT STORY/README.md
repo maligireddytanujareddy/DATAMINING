@@ -4,9 +4,9 @@ This article focuses on current research being carried out using the data mining
 
 Medium Article Link: https://medium.com/@tanujareddy.maligireddy/data-mining-techniques-for-cancer-disease-diagnosis-and-prognosis-7f30b0379531
 
-Slideshare Link: https://www.slideshare.net/MaligireddyTanujaRed1/datamining-in-breastcancerpptx
+Slideshare Link: https://www.slideshare.net/MaligireddyTanujaRed1/datamining-techniques-in-breastcancerpptx
 
-Video Presentation Link: https://drive.google.com/file/d/18Owaponz2Ujv2v60BM8QbOmWdEUowzCE/view?usp=share_link 
+Video Presentation Link: https://drive.google.com/file/d/1JhRT-KONfGc3nm6wqNqxM8cPrAioASbF/view?usp=share_link
 
 
 References:
